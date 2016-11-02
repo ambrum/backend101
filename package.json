@@ -1,0 +1,13 @@
+{
+  "name": "backend101",
+  "version": "0.0.0",
+  "dependencies": {
+    "gulp-install": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ambrum/backend101.git"
+  },
+  "license": "ISC",
+   "description": "backend101"
+}
