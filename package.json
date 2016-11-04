@@ -9,5 +9,17 @@
     "url": "git://github.com/ambrum/backend101.git"
   },
   "license": "ISC",
-   "description": "backend101"
+  "description": "backend101",
+  "bugs": {
+    "url": "https://github.com/ambrum/backend101/issues"
+  },
+  "homepage": "https://github.com/ambrum/backend101#readme",
+  "main": "index.js",
+  "devDependencies": {
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
