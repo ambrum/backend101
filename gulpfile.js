@@ -11,7 +11,7 @@ gulp.task('watch', function() {
 gulp.task('sass', function() {
     return gulp.src('app/scss/**/*.scss') // Gets all files ending with .scss in app/scss
         .pipe(sass())
-        .pipe(gulp.dest('app/styles'))
+        .pipe(gulp.dest('*.js'))
         .pipe(browserSync.reload({
             stream: true
         }))

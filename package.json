@@ -2,7 +2,9 @@
   "name": "backend101",
   "version": "0.0.0",
   "dependencies": {
-    "gulp-install": "^0.6.0"
+    "express": "^4.14.0",
+    "gulp-install": "^0.6.0",
+    "mongodb": "^2.2.11"
   },
   "repository": {
     "type": "git",
